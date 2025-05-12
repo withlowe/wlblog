@@ -8,8 +8,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 
 export const metadata: Metadata = {
-  title: "Minimalist Blog",
-  description: "A minimalist blog with simple content management",
+  title: "withlowe",
+  description: Notes on a postcard",
     generator: 'v0.dev'
 }
 
