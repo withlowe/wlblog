@@ -7,7 +7,7 @@ export default function ThoughtsPage() {
 
   return (
     <div>
-      <h1 className="text-2xl font-normal mb-8">Thoughts</h1>
+      <h1 className="text-2xl font-normal mb-8">Notes</h1>
       <div className="post-list">
         {posts.map((post) => (
           <article key={post.slug}>
