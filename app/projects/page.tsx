@@ -31,7 +31,7 @@ export default function ProjectsPage() {
 
   return (
     <div>
-      <h1 className="text-2xl font-normal mb-8">Projects</h1>
+      <h1 className="text-2xl font-normal mb-8">Photos</h1>
 
       {projects.length === 0 ? (
         <div className="prose dark:prose-invert">
